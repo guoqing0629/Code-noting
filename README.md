@@ -1,0 +1,2 @@
+# Code-noting
+LeetCode journey
